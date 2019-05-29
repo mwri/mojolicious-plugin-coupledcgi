@@ -406,7 +406,7 @@ Finally the following are added:
 
 =head1 AUTHOR
 
-Copyright (C) 2015-2016 Michael Wright <mjw@methodanalysis.com>. All rights reserved.
+Copyright (C) 2015-2016 Michael Wright <mjw@methodanalysis.com>.
 
 =cut
 
